@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FishingPlannerApp</string>
+    <string name="login">Login</string>
+    <string name="registrate">Registrate</string>
+    <string name="available">Available Countries</string>
+    <string name="planned">Planned trips</string>
+    <string name="quit">Quit</string>
+    <string name="registration">Registration Screen\n</string>
+    <string name="countryList">Country Screen</string>
+    <string name="lakeList">Lake Screen</string>
+    <string name="plannedList">Planned Screen</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="email">Email:</string>
+    <string name="passwordagain">Password again:</string>
+</resources>
